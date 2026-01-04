@@ -11,7 +11,9 @@ A comprehensive Flutter application for signing, sealing, and delivering documen
  **Drag & Drop Fields**: Add Signature, Text, and Date fields.
  **Resize & Move**: fully interactive field manipulation.
  **Publish Mode**: Lock field positions for signers to fill in.
- **JSON Import/Export**: Save and load field configurations.
+ **Export JSON Format**: Export field configurations to JSON format for backup or sharing.
+ **Import JSON**: Load previously exported JSON configurations.
+ **Delete Option**: Swipe left on any document to delete it.
 **Secure Signing**:
  **Digital Signature**: Draw and upload signatures securely.
  **Signature Locking**: Signatures are permanently locked after saving to ensure integrity.
