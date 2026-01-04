@@ -56,8 +56,7 @@ Firebase Account
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/esignature.git
-    cd esignature
+    git clone https://github.com/muntasir-ifaz574/e-Signature.git
     ```
 
 2.  **Install Dependencies**:
